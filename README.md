@@ -1,1 +1,3 @@
 # idcardOCR
+IDCARD
+BANKCARD
